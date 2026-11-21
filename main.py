@@ -12,10 +12,11 @@ import os
 import sys
 
 TEXT = (
-    "Rain on the tent roof, somewhere far from any road. "
-    "The fire has gone to embers. "
-    "Over the pines the Milky Way pours its slow river across the sky — "
-    "and it was shining like this long before the first fire was ever lit."
+    "Snow falling at night on a sleeping village. No wind. "
+    "The lamps make small gold pools in the street, and roof by roof, "
+    "fence by fence, the world is being quietly covered. "
+    "It has fallen on these hills for ten thousand winters, "
+    "and it is in no hurry at all."
 )
 
 
